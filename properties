@@ -5,7 +5,7 @@
     "properties": {
         "name": {
             "type": "string",
-            "author": "espressive"
+            "author": "espressive",
             "items": {
                 "homepage": "string"
             }
